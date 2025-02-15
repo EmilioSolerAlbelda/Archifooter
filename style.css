@@ -1,0 +1,23 @@
+/* Colores personalizados */
+.bg-light-green {
+    background-color: #aebab0;
+}
+
+.text-dark-red {
+    color: #c24e2e;
+}
+
+.text-dark-red:hover {
+    color: #a03e25; /* Color más oscuro al pasar el cursor */
+    text-decoration: none;
+}
+
+/* Espaciado en dispositivos pequeños */
+footer p {
+    margin-bottom: 0.5rem;
+}
+
+/* Iconos */
+footer i {
+    transition: color 0.3s ease;
+}
